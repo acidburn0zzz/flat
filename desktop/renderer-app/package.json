@@ -21,7 +21,7 @@
     "@videojs/vhs-utils": "^2.3.0",
     "agora-rtm-sdk": "^1.4.3",
     "antd": "^4.15.4",
-    "axios": "^0.21.2",
+    "axios": "^0.28.0",
     "classnames": "^2.3.1",
     "date-fns": "^2.22.1",
     "eventemitter3": "^4.0.7",
