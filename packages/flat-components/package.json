@@ -29,7 +29,7 @@
     "build": "build-storybook -s public --no-version-updates"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.0",
+    "@babel/core": "^7.29.6",
     "@netless/eslint-plugin": "1.1.2",
     "@storybook/addon-actions": "^6.3.7",
     "@storybook/addon-essentials": "^6.3.7",
